@@ -22,7 +22,7 @@ export class AppComponent {
       icon: 'list'
     },
     {
-      title: 'Calculator',
+      title: 'Calculadora',
       url: '/calc',
       icon: 'apps'
     }
